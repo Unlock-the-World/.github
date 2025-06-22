@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://developers.keyvox.co"><img src="https://img.shields.io/badge/Docs-developers.keyvox.co-blue?style=for-the-badge&logo=readthedocs" /></a>
   <a href="https://github.com/Unlock-the-World/keyvox"><img src="https://img.shields.io/badge/SDK-KEYVOX-blueviolet?style=for-the-badge&logo=javascript" /></a>
-  <a href="https://discord.gg/QBUBmjaSj8"><img src="https://img.shields.io/discord/000000000000000000?style=for-the-badge&label=Join%20Discord&logo=discord&color=5865F2" /></a>
+  <a href="https://discord.gg/QBUBmjaSj8"><img src="https://img.shields.io/discord/956346302382358578?style=for-the-badge&label=Join%20Discord&logo=discord&color=5865F2" /></a>
 </p>
 
 ---
